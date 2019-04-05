@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'postmaster@digimmo.net'
+  default from: 'postmaster@pccindow.com'
   layout 'mailer'
 end
